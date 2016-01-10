@@ -1,3 +1,5 @@
+/.idea
+/font-awesome-polymer-icons.iml
 # Vendor modules & components
 bower_components
 node_modules
